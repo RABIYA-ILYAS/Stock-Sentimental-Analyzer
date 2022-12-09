@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stock Sentimental Analysis</string>
+    <string name="register">Register</string>
+    <string name="Login">login</string>
+</resources>
